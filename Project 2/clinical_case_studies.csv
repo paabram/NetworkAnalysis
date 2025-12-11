@@ -1,11 +1,11 @@
 Person ID,Existing Conditions,Predicted Condition
-990,"Hemangioma, Hyperpigmentation of skin, Displacement of cervical intervertebral disc, Spinal stenosis in cervical region, Localized swelling, mass and lump, trunk",Degeneration of cervical intervertebral disc
-1240,"Pure hypercholesterolemia, Steatosis of liver, Lumbosacral radiculopathy, Coronary artery graft present, Hepatosplenomegaly",COVID-19
-1053,"Primary malignant neoplasm of prostate, Gout, Urgent desire to urinate, Neoplastic disease, Neoplasm defined only by topography: Prostate gland",Raised prostate specific antigen
-1680,"Disorder of soft tissue, Polyuria, Bilateral tinnitus, Cancer-related fatigue, Prediabetes",Epigastric pain
-946,"Venous thrombosis, Disorder of biliary tract, Hepatic encephalopathy, Bacteremia, Ascites",Primary malignant neoplasm of pancreas
-1324,"Impacted cerumen, Cytomegalovirus infection, Loss of appetite, Ulceration of intestine, Chronic bronchitis","Intra-abdominal and pelvic swelling, mass and lump"
-435,"Complication occurring during pregnancy, Second degree perineal laceration, Elderly primigravida, Metabolic syndrome X, Gestation period, 16 weeks",Maternal AND/OR fetal condition affecting labor AND/OR delivery
-1433,"Peripheral vascular disease, Hyperkalemia, Conduction disorder of the heart, Pure hypercholesterolemia, Cerebrovascular disease",Supraventricular tachycardia
-1539,"Acute upper respiratory infection, First trimester pregnancy, Viral disease, Threatened miscarriage, Abnormal findings on antenatal screening of mother",Hemorrhagic complication of pregnancy
-551,"Complication of pregnancy, childbirth and/or puerperium, Oligohydramnios, Single live birth, Disorder of nasal cavity, Eruption",Mild hyperemesis gravidarum
+1648,"Delirium, Post-inflammatory pulmonary fibrosis, Renal function tests abnormal, Muscle atrophy, Precipitous drop in hematocrit",Chronic systolic heart failure
+986,"Second degree perineal laceration, Gestation period, 40 weeks, Cord around neck with compression, Ectasia of thoracic aorta, Unplanned pregnancy",Maternal AND/OR fetal condition affecting labor AND/OR delivery
+1115,"Dehiscence of internal surgical wound, Conduction disorder of the heart, Pulmonary congestion and hypostasis, Pulmonary emphysema, Rheumatic disease of heart valve",Complication of internal device
+1541,"Immunodeficiency disorder, Asthma, Drug-induced diabetes mellitus, Imaging of abdomen abnormal, Transplanted lung present",Vitamin B deficiency
+1813,"Chronic kidney disease stage 3, Septic shock, Intestinal obstruction, Hematuria syndrome, Long QT syndrome",Nonunion of fracture
+310,"Single live birth, Unplanned pregnancy, Postpartum finding",Finding related to pregnancy
+983,"Otalgia, Urgent desire to urinate, Megaloblastic anemia due to vitamin B-12 deficiency, Sensorineural hearing loss, bilateral, Disorder of teeth AND/OR supporting structures",Diabetes mellitus without complication
+424,"Muscle strain, Nocturia, Disorder of gallbladder, Imaging result abnormal, Pain in eye",Traumatic or non-traumatic injury
+891,"Eruption, ESR raised, Dependence on supplemental oxygen, Pulmonary emphysema, Benign prostatic hyperplasia",Acute hypoxemic respiratory failure
+348,"Hypokalemia, Chronic vascular insufficiency of intestine, Dissection of aorta, Organic anxiety disorder, Rheumatic tricuspid valve regurgitation",Multiple valve disease
